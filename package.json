@@ -1,0 +1,11 @@
+{
+  "name": "backend-foundations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive course on twelve backend engineering concepts, built around one evolving API.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
