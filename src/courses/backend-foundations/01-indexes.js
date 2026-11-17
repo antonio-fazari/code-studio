@@ -1,5 +1,5 @@
-import { code, fmt, ms, slider, bindSlider, stats } from '../ui.js';
-import { indexCost, binarySearchSteps } from '../engines.js';
+import { code, fmt, ms, slider, bindSlider, stats } from '../../ui.js';
+import { indexCost, binarySearchSteps } from '../../engines.js';
 
 export default {
   id: 'indexes',

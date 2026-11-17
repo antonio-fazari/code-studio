@@ -1,5 +1,5 @@
-import { code, log, pill, slider, bindSlider, stats } from '../ui.js';
-import { TokenBucket } from '../engines.js';
+import { code, log, pill, slider, bindSlider, stats } from '../../ui.js';
+import { TokenBucket } from '../../engines.js';
 
 export default {
   id: 'rate-limiting',

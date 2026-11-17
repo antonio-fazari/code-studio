@@ -1,4 +1,4 @@
-import { code, log, pill, stats } from '../ui.js';
+import { code, log, pill, stats } from '../../ui.js';
 
 const oauthSteps = [
   ['ShopLite', 'Redirects your browser to accounts.google.com with its client id, the scopes it wants (email, profile), and a PKCE code challenge.'],

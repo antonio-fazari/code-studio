@@ -1,4 +1,4 @@
-import { code, pill } from '../ui.js';
+import { code, pill } from '../../ui.js';
 
 // Each step: [who, statement, effect on state, note]
 const scripts = {

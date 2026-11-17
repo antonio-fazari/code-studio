@@ -1,5 +1,5 @@
-import { code, log, pill, stats } from '../ui.js';
-import { handlePayment } from '../engines.js';
+import { code, log, pill, stats } from '../../ui.js';
+import { handlePayment } from '../../engines.js';
 
 export default {
   id: 'idempotency',
