@@ -1,4 +1,4 @@
-import { code, log, ms, pill, slider, bindSlider, stats } from '../ui.js';
+import { code, log, ms, pill, slider, bindSlider, stats } from '../../ui.js';
 
 export default {
   id: 'queues',

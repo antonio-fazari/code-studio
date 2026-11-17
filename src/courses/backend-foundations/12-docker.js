@@ -1,4 +1,4 @@
-import { code, pill, stats } from '../ui.js';
+import { code, pill, stats } from '../../ui.js';
 
 // [instruction, seconds when rebuilt, what invalidates it: 'never' | 'deps' | 'src']
 const files = {

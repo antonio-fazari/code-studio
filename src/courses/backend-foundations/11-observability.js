@@ -1,4 +1,4 @@
-import { code, pill } from '../ui.js';
+import { code, pill } from '../../ui.js';
 
 const metrics = [
   ['api-gateway', '2,410', '0.1%', '38 ms', '2,460 ms', 'bad'],

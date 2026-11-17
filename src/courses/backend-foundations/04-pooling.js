@@ -1,5 +1,5 @@
-import { code, ms, slider, bindSlider, stats } from '../ui.js';
-import { simulatePool } from '../engines.js';
+import { code, ms, slider, bindSlider, stats } from '../../ui.js';
+import { simulatePool } from '../../engines.js';
 
 export default {
   id: 'pooling',

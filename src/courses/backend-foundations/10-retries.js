@@ -1,5 +1,5 @@
-import { code, fmt, slider, bindSlider } from '../ui.js';
-import { simulateRetries } from '../engines.js';
+import { code, fmt, slider, bindSlider } from '../../ui.js';
+import { simulateRetries } from '../../engines.js';
 
 const strategies = [
   ['fixed', 'Retry every 100 ms', 'Every client retries immediately and keeps going.'],

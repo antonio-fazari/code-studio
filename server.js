@@ -19,4 +19,4 @@ createServer(async (req, res) => {
   } catch {
     res.writeHead(404, { 'Content-Type': 'text/plain' }).end('Not found');
   }
-}).listen(port, () => console.log(`Backend Foundations running at http://localhost:${port}`));
+}).listen(port, () => console.log(`Code Studio running at http://localhost:${port}`));
